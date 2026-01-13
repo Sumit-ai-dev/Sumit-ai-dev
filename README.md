@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sumit Das<br>A passionate Computer Science student focused on building strong fundamentals in software engineering, data structures, and AI-driven development.<br>	•	🔭 Currently working on:<br>Full-stack projects using React, Django, and APIs, along with open-source contributions.<br>	•	🌱 Currently learning:<br>Data Structures & Algorithms (Java), React+Redux, Django REST, AI/ML basics, and Docker.<br>	•	👯 Looking to collaborate on:<br>Open-source projects, hackathons, and beginner-friendly system/backend projects.<br>	•	🤝 Looking for help with:<br>Competitive programming, scalable backend design, and real-world production practices.<br>	•	💬 Ask me about:<br>Java fundamentals, Git/GitHub, web development basics, or getting started with open source.<br>	•	⚡ Fun fact:<br>I enjoy taking the hard path—because that’s where real growth happens 🚀
+<h1>Hi, I’m Sumit Das</h1><br>A passionate Computer Science student focused on building strong fundamentals in software engineering, data structures, and AI-driven development.<br>	•	🔭 Currently working on:<br>Full-stack projects using React, Django, and APIs, along with open-source contributions.<br>	•	🌱 Currently learning:<br>Data Structures & Algorithms (Java), React+Redux, Django REST, AI/ML basics, and Docker.<br>	•	👯 Looking to collaborate on:<br>Open-source projects, hackathons, and beginner-friendly system/backend projects.<br>	•	🤝 Looking for help with:<br>Competitive programming, scalable backend design, and real-world production practices.<br>	•	💬 Ask me about:<br>Java fundamentals, Git/GitHub, web development basics, or getting started with open source.<br>	•	⚡ Fun fact:<br>I enjoy taking the hard path—because that’s where real growth happens 🚀
 
 
 ## 🌐 Socials:
@@ -12,14 +12,14 @@ Hi, I’m Sumit Das<br>A passionate Computer Science student focused on building
 ![](https://nirzak-streak-stats.vercel.app/?user=Sumit-ai-dev&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-ai-dev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sumit-ai-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sumit-ai-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![https://github.com/intelowlproject/GreedyBear](https://github-contributor-stats.vercel.app/api?username=Sumit-ai-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![https://github.com/intelowlproject/GreedyBear](https://github-contributor-stats.vercel.app/api?username=Sumit-ai-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sumit-ai-dev&icon=0&color=0)](https://visitcount.itsvg.in)
