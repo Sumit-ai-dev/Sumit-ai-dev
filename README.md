@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Sumit Das<br>A passionate Computer Science student focused on building strong fundamentals in software engineering, data structures, and AI-driven development.<br>	•	🔭 Currently working on:<br>Full-stack projects using React, Django, and APIs, along with open-source contributions.<br>	•	🌱 Currently learning:<br>Data Structures & Algorithms (Java), React+Redux, Django REST, AI/ML basics, and Docker.<br>	•	👯 Looking to collaborate on:<br>Open-source projects, hackathons, and beginner-friendly system/backend projects.<br>	•	🤝 Looking for help with:<br>Competitive programming, scalable backend design, and real-world production practices.<br>	•	💬 Ask me about:<br>Java fundamentals, Git/GitHub, web development basics, or getting started with open source.<br>	
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sumit_vlog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-das-42a8522a4/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sumitaidev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SumitDas1423) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitds2005@gmail.com) 
