@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi, I’m Sumit Das<br>A passionate Computer Science student focused on building strong fundamentals in software engineering, data structures, and AI-driven development.<br>	•	🔭 Currently working on:<br>Full-stack projects using React, Django, and APIs, along with open-source contributions.<br>	•	🌱 Currently learning:<br>Data Structures & Algorithms (Java), React+Redux, Django REST, AI/ML basics, and Docker.<br>	•	👯 Looking to collaborate on:<br>Open-source projects, hackathons, and beginner-friendly system/backend projects.<br>	•	🤝 Looking for help with:<br>Competitive programming, scalable backend design, and real-world production practices.<br>	•	💬 Ask me about:<br>Java fundamentals, Git/GitHub, web development basics, or getting started with open source.<br>	
+Hi, I’m **Sumit Das** 👋  
+Computer Science student and open-source contributor focused on cybersecurity tooling, strong DSA fundamentals, and building production-ready full-stack systems.
+
+- **Programs:** Summer of Bitcoin 2026 — Qualified for Round 1  
+- **Cybersecurity:** Exploring honeypots, threat intel, and secure engineering practices  
+- **Open source:** Contributing to security + developer tooling projects (GSoC-focused)  
+- **Building:** React, Django/Django REST, API-driven apps & dashboards  
+- **Learning:** DSA (Java), React + Redux, Docker, AI/ML basics  
+
+**Ask me about:** Full-stack, APIs, Docker, Git workflows, DSA, security basics.	
  
 
 ## 🌐 Socials:
