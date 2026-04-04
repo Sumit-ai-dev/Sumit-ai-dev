@@ -1,14 +1,14 @@
 # 💫 About Me:
 Hi, I’m **Sumit Das** 👋  
-Computer Science student and open-source contributor focused on cybersecurity tooling, strong DSA fundamentals, and building production-ready full-stack systems.
+Open-source contributor focused on cybersecurity and real-world systems, actively building and contributing across multiple ecosystems.
 
-- **Programs:** Summer of Bitcoin 2026 — Qualified for Round 1  
-- **Cybersecurity:** Exploring honeypots, threat intel, and secure engineering practices  
-- **Open source:** Contributing to security + developer tooling projects (GSoC-focused)  
-- **Building:** React, Django/Django REST, API-driven apps & dashboards  
-- **Learning:** DSA (Java), React + Redux, Docker, AI/ML basics  
+- **Open Source:** Contributor to Honeynet Project (Artemis, EventHoriozn,threat intel,honeypots)  
+- **Programs:** Summer of Bitcoin 2026 Qualified Round 1 | GSoC, C4GT & eSoC track  
+- **Hackathons:** 1st Runner-Up @ Trithon (300+ teams) | Selected in AI for Bharat (Amazon Hackathon)  
+- **Building:** VANI (voice → website system), AI-based healthcare solutions  
+- **Tech:** Python, JavaScript, React, Django, APIs, Docker  
 
-**Ask me about:** Full-stack, APIs, Docker, Git workflows, DSA, security basics.	
+**Focus:** I learn by building, shipping, and contributing not just studying.
  
 
 ## 🌐 Socials:
