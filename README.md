@@ -46,9 +46,11 @@ Open-source contributor focused on cybersecurity and real-world systems, activel
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumit-ai-dev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sumit-ai-dev&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-ai-dev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+![Streak](https://streak-stats.demolab.com?user=Sumit-ai-dev&theme=tokyonight)
+
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sumit-ai-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
