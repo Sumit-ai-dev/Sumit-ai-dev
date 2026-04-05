@@ -6,7 +6,7 @@ Open-source contributor focused on cybersecurity and real-world systems, activel
 - **Programs:** Summer of Bitcoin 2026 Qualified Round 1 | GSoC, C4GT & eSoC track  
 - **Hackathons:** 1st Runner-Up @ Trithon (300+ teams) | Selected in AI for Bharat (Amazon Hackathon)  
 - **Building:** VANI (voice → website system), AI-based healthcare solutions  
-- **Tech:** Python, JavaScript, React, Django, APIs, Docker  
+- **Tech:** Python, JavaScript, React, Django, Fast APIs, Docker  
 
 **Focus:** I learn by building, shipping, and contributing not just studying.
  
