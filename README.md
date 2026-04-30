@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m **Sumit Das** 👋  
 Open-source contributor focused on cybersecurity and real-world systems, actively building and contributing across multiple ecosystems.
 
