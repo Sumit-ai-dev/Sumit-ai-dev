@@ -98,7 +98,7 @@ I'm an **AI Engineer** who builds production-ready intelligent systems — from 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Sumit-ai-dev&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sumit-ai-dev&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
