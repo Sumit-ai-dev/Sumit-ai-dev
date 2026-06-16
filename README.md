@@ -1,67 +1,104 @@
-# About Me:
-Hi, I’m **Sumit Das** 👋  
-Open-source contributor focused real-world systems, actively building and contributing across multiple ecosystems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumit%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=51&descAlign=50" width="100%" />
 
-- **Open Source:** Contributor to Honeynet Project (Artemis, EventHoriozn,threat intel,honeypots)  
-- **Programs:** Summer of Bitcoin 2026 Qualified Round 1 | GSoC, C4GT & eSoC track  
-- **Hackathons:** 1st Runner-Up @ Trithon (300+ teams) | Selected in AI for Bharat (Amazon Hackathon)  
-- **Building:** VANI (voice → website system), AI-based healthcare solutions  
-- **Tech:** Python, JavaScript, React, Django, Fast APIs, Docker  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=6E9EF7&center=true&vCenter=true&width=600&lines=Building+intelligent%2C+scalable+AI+systems+%F0%9F%A7%A0;LLMs+%7C+MLOps+%7C+Open-Source+%7C+Backend+Eng;From+idea+to+production+%E2%80%94+end+to+end." alt="Typing SVG" />
+  </a>
+</div>
 
-**Focus:** I learn by building, shipping, and contributing not just studying.
- 
+<br/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sumit_vlog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-das-42a8522a4/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sumitaidev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SumitDas1423) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitds2005@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
-
-# 💻 Tech Stack:
-
-### 🚀 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### ⚙️ Backend & Systems
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧠 AI / Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### ☁️ Deployment & Dev Tools
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-
-
-
-![Streak](https://streak-stats.demolab.com?user=Sumit-ai-dev&theme=tokyonight)
-
-
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sumit-ai-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!--### 🔝 Top Contributed Repo
-![https://github.com/intelowlproject/GreedyBear](https://github-contributor-stats.vercel.app/api?username=Sumit-ai-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
+<div align="center">
+  <a href="https://linkedin.com/in/sumit-das-42a8522a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SumitDas1423">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:sumitds2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/sumit_vlog">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/sumitaidev">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sumit-ai-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm an **AI Engineer** who builds production-ready intelligent systems — from LLM-powered pipelines and agentic AI workflows to scalable backend APIs. I care deeply about the full stack: model, infra, API, and the experience that sits on top.
+
+```text
+🔬  Specialty     →  Applied AI · Generative AI · LLM Integration · NLP
+⚙️  Approach      →  System-first thinking · clean APIs · end-to-end ownership
+🌍  Open Source   →  Honeynet Project (Artemis, EventHorizon, threat intel)
+🎓  Programs      →  Summer of Bitcoin 2026 · GSoC · C4GT · eSoC
+🏆  Hackathons    →  1st Runner-Up @ Trithon (300+ teams) · AI for Bharat (Amazon)
+```
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">🧠 AI / ML</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" height="28"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">⚙️ Backend & MLOps</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi,django,go,docker&theme=dark" /><br/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" height="28"/>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+  <h3 align="center">🎨 Frontend & Deploy</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,vercel,git,aws,gcp&theme=dark" /><br/>
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="28"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" height="28"/>
+  </div>
+</td>
+
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sumit-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sumit's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-ai-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sumit-ai-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <br/><br/>
+  <img src="https://visitcount.itsvg.in/api?id=Sumit-ai-dev&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Profile Views"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
