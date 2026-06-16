@@ -1,6 +1,6 @@
 # About Me:
 Hi, I’m **Sumit Das** 👋  
-Open-source contributor focused on cybersecurity and real-world systems, actively building and contributing across multiple ecosystems.
+Open-source contributor focused real-world systems, actively building and contributing across multiple ecosystems.
 
 - **Open Source:** Contributor to Honeynet Project (Artemis, EventHoriozn,threat intel,honeypots)  
 - **Programs:** Summer of Bitcoin 2026 Qualified Round 1 | GSoC, C4GT & eSoC track  
