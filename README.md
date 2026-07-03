@@ -35,7 +35,7 @@ I'm an **AI Engineer** who builds production-ready intelligent systems — from 
 ```text
 🔬  Specialty     →  Applied AI · Generative AI · LLM Integration · NLP . RAG
 ⚙️  Approach      →  System-first thinking · clean APIs · end-to-end ownership
-🌍  Open Source   →  Honeynet Project (Artemis, EventHorizon, GreedyBear)
+🌍  Open Source   →  The Honeynet Project (Artemis, EventHorizon, GreedyBear)
 🎓  Programs      →  Summer of Bitcoin 2026 · GSoC · C4GT · ESoC . LFX
 🏆  Hackathons    →  1st Runner-Up @ Trithon (300+ teams) · AI for Bharat (Amazon) . Build for bengaluru (Google)
 ```
