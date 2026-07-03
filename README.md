@@ -68,6 +68,7 @@ I'm an **AI Engineer** who builds production-ready intelligent systems — from 
   <h3 align="center">🎨 Frontend & Deploy</h3>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,vercel,git,aws,gcp&theme=dark" /><br/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
     <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="28"/>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="28"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" height="28"/>
