@@ -33,7 +33,7 @@
 I'm an **AI Engineer** who builds production-ready intelligent systems — from LLM-powered pipelines and agentic AI workflows to scalable backend APIs. I care deeply about the full stack: model, infra, API, and the experience that sits on top.
 
 ```text
-🔬  Specialty     →  Applied AI · Generative AI · LLM Integration · NLP . RAG . GenAI
+🔬  Specialty     →  Applied AI · Generative AI · LLM Integration · NLP . RAG 
 ⚙️  Approach      →  System-first thinking · clean APIs · end-to-end ownership
 🌍  Open Source   →  The Honeynet Project (Artemis, EventHorizon, GreedyBear)
 🎓  Programs      →  Summer of Bitcoin 2026 · GSoC · C4GT · ESoC . LFX
